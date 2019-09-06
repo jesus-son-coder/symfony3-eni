@@ -1,3 +1,8 @@
+eni_demo:
+    resource: "@EniDemoBundle/Controller/"
+    type:     annotation
+    prefix:   /
+
 app:
     resource: '@AppBundle/Controller/'
     type: annotation
