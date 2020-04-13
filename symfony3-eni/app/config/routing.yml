@@ -1,5 +1,5 @@
-eni_demo:
-    resource: "@EniDemoBundle/Controller/"
+demo:
+    resource: "@DemoBundle/Controller/"
     type:     annotation
     prefix:   /
 

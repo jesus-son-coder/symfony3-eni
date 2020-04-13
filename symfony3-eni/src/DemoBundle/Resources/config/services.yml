@@ -1,4 +1,4 @@
 services:
-#    eni_demo.example:
-#        class: Eni\DemoBundle\Example
+#    demo.example:
+#        class: DemoBundle\Example
 #        arguments: ["@service_id", "plain_value", "%parameter%"]

@@ -1,6 +1,6 @@
 <?php
 
-namespace Eni\DemoBundle\Controller;
+namespace DemoBundle\Controller;
 
 use Symfony\Bundle\FrameworkBundle\Controller\Controller;
 use Sensio\Bundle\FrameworkExtraBundle\Configuration\Route;
@@ -12,6 +12,6 @@ class DefaultController extends Controller
      */
     public function indexAction()
     {
-        return $this->render('EniDemoBundle:Default:index.html.twig');
+        return $this->render('DemoBundle:Default:index.html.twig');
     }
 }

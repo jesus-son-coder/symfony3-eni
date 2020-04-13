@@ -1,9 +1,9 @@
 <?php
 
-namespace Eni\DemoBundle;
+namespace DemoBundle;
 
 use Symfony\Component\HttpKernel\Bundle\Bundle;
 
-class EniDemoBundle extends Bundle
+class DemoBundle extends Bundle
 {
 }
